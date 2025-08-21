@@ -12,7 +12,7 @@ variables:
   - name: projectName
     value: 'Training-Student-005-OC007'            # <-- Update this
   - name: buildPipelineName
-    value: ' finweb_ieasha_build'          # <-- Update this
+    value: 'finweb_ieasha_build'          # <-- Update this
   - name: artifactName
     value: 'frontend'        
   - name: targetFile
